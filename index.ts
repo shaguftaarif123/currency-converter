@@ -56,3 +56,5 @@ console.log(`Your ${chalk.bold.greenBright(firstCountry.name)}
 ${chalk.bold.greenBright(userMoney.rupee)} 
 in ${chalk.bold.greenBright(secondCountry.name)}
  is ${chalk.bold.greenBright(convertedRate)}`);
+
+ 
